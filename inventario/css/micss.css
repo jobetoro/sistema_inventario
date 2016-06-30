@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18-06-2016, 20:59:33
+    Author     : jose toro
+rgba(0,128,128,0.4);
+*/
+body{
+	background-color: #4fc3f7;
+	
+}
+#verlog{
+	border: 2px solid white;
+	background-color: rgba(0,0,255,0.4);
+	width: 120%;
+}
+#imcolor{
+	color: white;
+}
+#im{
+	width: 80%;
+}
+.idheader{
+	border: 2px solid black;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	border-radius: 10px;
+	width: 80%;
+	 background-color: #0a0a0a;
+	margin-left: 5%;
+}
+.navegacion{
+	width: 60%;
+}
+#modalsalir{
+	margin-top: 100px;
+}
+#modalini{
+	margin-top: 100px;
+}
+#desc{
+  width: 6%;
+}
+#rut{
+	width: 20%;
+   
+}
+.centrar{
+	margin-left: 290px;
+	width: 53%;
+}
+#lado{
+	background-color:rgba(192,192,192,0.2);
+	width: 65%;
+	border: 1px solid black;
+	height: 700px;
+margin-left: 250px;
+
+margin-top: -140px;
+}
+.boton{
+text-decoration: none;
+border: 1px solid red;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: -10px;
+padding: 10px;
+float: right;
+}
+.conte{
+background-color: rgba(0,128,128,0.4);
+}
+.na{
+	border: 1px solid black;
+	margin-left: 57px;
+	margin-top: -40px;
+background-color: #0a0a0a;
+}
+.se{
+background-color: #03a9f4;
+}
